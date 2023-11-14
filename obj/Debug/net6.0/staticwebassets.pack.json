@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GrabTaxi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\GrabTaxi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\css\\ionicons.css",
+      "PackagePath": "staticwebassets\\css\\ionicons.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\css\\style.less",
+      "PackagePath": "staticwebassets\\css\\style.less"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\css\\uber-google-maps.css",
+      "PackagePath": "staticwebassets\\css\\uber-google-maps.css"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\fonts\\ionicons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\fonts\\ionicons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\fonts\\ionicons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\fonts\\ionicons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ionicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\address.png",
+      "PackagePath": "staticwebassets\\images\\address.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\background-testimonials.jpg",
+      "PackagePath": "staticwebassets\\images\\background-testimonials.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\background.svg",
+      "PackagePath": "staticwebassets\\images\\background.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\car1.jpg",
+      "PackagePath": "staticwebassets\\images\\car1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\car2.jpg",
+      "PackagePath": "staticwebassets\\images\\car2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\car3.jpg",
+      "PackagePath": "staticwebassets\\images\\car3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\car4.jpg",
+      "PackagePath": "staticwebassets\\images\\car4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\car5.jpg",
+      "PackagePath": "staticwebassets\\images\\car5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\car6.jpg",
+      "PackagePath": "staticwebassets\\images\\car6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\close_fullscreen.svg",
+      "PackagePath": "staticwebassets\\images\\close_fullscreen.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\contact1.jpg",
+      "PackagePath": "staticwebassets\\images\\contact1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\contact2.jpg",
+      "PackagePath": "staticwebassets\\images\\contact2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\contact3.jpg",
+      "PackagePath": "staticwebassets\\images\\contact3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\contact4.jpg",
+      "PackagePath": "staticwebassets\\images\\contact4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\crash.png",
+      "PackagePath": "staticwebassets\\images\\crash.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver01.jpg",
+      "PackagePath": "staticwebassets\\images\\driver01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver02.jpg",
+      "PackagePath": "staticwebassets\\images\\driver02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver03.jpg",
+      "PackagePath": "staticwebassets\\images\\driver03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver04.jpg",
+      "PackagePath": "staticwebassets\\images\\driver04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver05.jpg",
+      "PackagePath": "staticwebassets\\images\\driver05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver06.jpg",
+      "PackagePath": "staticwebassets\\images\\driver06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver07.jpg",
+      "PackagePath": "staticwebassets\\images\\driver07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver08.jpg",
+      "PackagePath": "staticwebassets\\images\\driver08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver09.jpg",
+      "PackagePath": "staticwebassets\\images\\driver09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver10.jpg",
+      "PackagePath": "staticwebassets\\images\\driver10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver11.jpg",
+      "PackagePath": "staticwebassets\\images\\driver11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\driver12.jpg",
+      "PackagePath": "staticwebassets\\images\\driver12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\email.png",
+      "PackagePath": "staticwebassets\\images\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\go_fullscreen.svg",
+      "PackagePath": "staticwebassets\\images\\go_fullscreen.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\job.jpg",
+      "PackagePath": "staticwebassets\\images\\job.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\map-marker.png",
+      "PackagePath": "staticwebassets\\images\\map-marker.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\phone.png",
+      "PackagePath": "staticwebassets\\images\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\post1.jpg",
+      "PackagePath": "staticwebassets\\images\\post1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\post2.jpg",
+      "PackagePath": "staticwebassets\\images\\post2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\post3.jpg",
+      "PackagePath": "staticwebassets\\images\\post3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\post4.jpg",
+      "PackagePath": "staticwebassets\\images\\post4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\post5.jpg",
+      "PackagePath": "staticwebassets\\images\\post5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\post6.jpg",
+      "PackagePath": "staticwebassets\\images\\post6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\post7.jpg",
+      "PackagePath": "staticwebassets\\images\\post7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\promo1.jpg",
+      "PackagePath": "staticwebassets\\images\\promo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\promo2.jpg",
+      "PackagePath": "staticwebassets\\images\\promo2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\promo3.jpg",
+      "PackagePath": "staticwebassets\\images\\promo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\promo4.jpg",
+      "PackagePath": "staticwebassets\\images\\promo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\rangerover.jpg",
+      "PackagePath": "staticwebassets\\images\\rangerover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\slider1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\slider2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\slider3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\testimonial1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\testimonial2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\testimonial3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\testimonial4.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\testimonial5.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\traveller.jpg",
+      "PackagePath": "staticwebassets\\images\\traveller.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\images\\web.png",
+      "PackagePath": "staticwebassets\\images\\web.png"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\js\\jquery-3.1.1.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.1.1.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\js\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\js\\picker.date.js",
+      "PackagePath": "staticwebassets\\js\\picker.date.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\js\\picker.js",
+      "PackagePath": "staticwebassets\\js\\picker.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\js\\picker.time.js",
+      "PackagePath": "staticwebassets\\js\\picker.time.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\js\\settings.js",
+      "PackagePath": "staticwebassets\\js\\settings.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\js\\uber-google-maps.js",
+      "PackagePath": "staticwebassets\\js\\uber-google-maps.js"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\maps\\contact-map.rtf",
+      "PackagePath": "staticwebassets\\maps\\contact-map.rtf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\maps\\garage-map.rtf",
+      "PackagePath": "staticwebassets\\maps\\garage-map.rtf"
+    },
+    {
+      "Id": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\wwwroot\\maps\\locations-map.rtf",
+      "PackagePath": "staticwebassets\\maps\\locations-map.rtf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.GrabTaxi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.GrabTaxi.props",
+      "PackagePath": "build\\GrabTaxi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.GrabTaxi.props",
+      "PackagePath": "buildMultiTargeting\\GrabTaxi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.GrabTaxi.props",
+      "PackagePath": "buildTransitive\\GrabTaxi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
