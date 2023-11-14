@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0/Ld9aGWJLVl9OzjOZicKYIaEQngQCKWkBMdyj6oZeN/1RrP3ByqXCwUCizFg4RQtajySe9f4Ic4Lv6bA6Ldww==",
+  "dgSpecHash": "qJHie0x4vxCI58W5aLhb46dxb3RNJ5CCG27rfoZaeb4Z3i17jg5iyAA+H86Si04VSTHuefQbUw7fda8JRX214A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\GrabTaxi.csproj",
+  "projectFilePath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\GrabTaxi\\GrabTaxi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kek13\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kek13\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

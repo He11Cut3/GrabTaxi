@@ -10236,11 +10236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\GrabTaxi.csproj",
+      "projectUniqueName": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\GrabTaxi\\GrabTaxi.csproj",
       "projectName": "GrabTaxi",
-      "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\GrabTaxi.csproj",
+      "projectPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\GrabTaxi\\GrabTaxi.csproj",
       "packagesPath": "C:\\Users\\kek13\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\GrabTaxi\\obj\\",
+      "outputPath": "C:\\Users\\kek13\\OneDrive\\Рабочий стол\\01\\Git\\GrabTaxi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\WQ\\NuGetPackages"
